@@ -1,0 +1,5 @@
+/* Hide homepage edit tab */
+.front .tabs {display: none;}
+
+/* Increase minimum logo size to allow for our wider logo */
+#header #logo img {max-width: 360px;}
