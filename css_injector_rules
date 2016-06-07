@@ -1,11 +1,11 @@
 /* Hide page edit tabs on homepage */
-body.front .tabs {display: none};
+body.front .tabs {display: none;}
 
 /* Custom Logo size */
 #header #logo img {max-width: inherit;}
 
 /* Hide password request on user login */
-#user-login-form .item-list {display: none};
+#user-login-form .item-list {display: none;}
 
 /* Hide RSS icon */
-.feed-icon {display: none};
+.feed-icon {display: none;}
