@@ -1,3 +1,6 @@
+/* Hide page edit tabs on homepage */
+body.front .tabs {display: none};
+
 /* Custom Logo size */
 #header #logo img {max-width: inherit;}
 
@@ -6,6 +9,3 @@
 
 /* Hide RSS icon */
 .feed-icon {display: none};
-
-/* Hide page edit tabs on homepage */
-body.front .tabs {display: none};
